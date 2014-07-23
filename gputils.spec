@@ -1,12 +1,12 @@
 Summary:	Tools for the Microchip (TM) PIC microcontrollers
 Summary(pl.UTF-8):	Narzędzia dla mikrokontrolerów PIC Microchip(TM)
 Name:		gputils
-Version:	1.2.0
+Version:	1.3.0
 Release:	1
 License:	GPL v2+
 Group:		Applications/System
 Source0:	http://downloads.sourceforge.net/gputils/%{name}-%{version}.tar.gz
-# Source0-md5:	4332391ce058c636d6c15d05d4cecd86
+# Source0-md5:	175dedeb141b4a4609a70262847257e4
 URL:		http://gputils.sourceforge.net/
 BuildRequires:	flex >= 2.5.4
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
